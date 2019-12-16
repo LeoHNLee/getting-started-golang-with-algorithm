@@ -9,7 +9,7 @@ import (
 	"time"
 )
 
-func main() {
+func no10699() {
 	// Set Time Zone of Seoul
 	seoulTZ := time.FixedZone("Asia/Seoul", 9*60*60) // if you know utc+-hour or others, you can insert second
 	seoulTZ, err := time.LoadLocation("Asia/Seoul")  // you know only TZ name
