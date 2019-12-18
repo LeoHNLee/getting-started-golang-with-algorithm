@@ -20,10 +20,15 @@ Especially, I try set of problems made to practice c++.
 ## [C++ 배우기1](https://www.acmicpc.net/workbook/view/566)
 
 - [10699 오늘 날짜](https://www.acmicpc.net/problem/10699)
-    - [Solution of Golang](./10699.go)
+    - [Solution of Golang](codes/10699.go)
 
 - [2753 윤년](https://www.acmicpc.net/problem/2753)
-    - [Solution of Golang](./2753.go)
+    - [Solution of Golang](codes/2753.go)
     - Input one line
     - convert string to int
     - case vs if
+
+- [2884 알람](https://www.acmicpc.net/problem/2884)
+    - [Solution of Golang](codes/2884.go)
+    - [Test Code of Golang](codes/2884_test.go)
+    - Fast IO: Read Std Input Integer
